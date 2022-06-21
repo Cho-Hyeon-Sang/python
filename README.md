@@ -1,3 +1,3 @@
 # for beginner
-# git/github
-# python
+1. git/github
+2. python
