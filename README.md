@@ -4,12 +4,12 @@
 	source : https://docs.python.org/ko/3/tutorial/index.html
 			 https://wikidocs.net/book/	
 
-	1.	자료구조 - 20220628
-		1 : List
-		2 : Tuple
-		3 : Dictionary
-		4 : Set
-		5 : Boolean
+	1. 자료구조 - 20220628
+		1. List
+		2. Tuple
+		3. Dictionary
+		4. Set
+		5. Boolean
 
 	2. 제어문, 반복문
 
