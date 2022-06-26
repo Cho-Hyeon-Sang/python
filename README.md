@@ -1,7 +1,7 @@
 # Python For Beginner 🧗‍♀️
 
-source_1 : https://docs.python.org/ko/3/tutorial/index.html
-source_2 : https://wikidocs.net/book/	
+* source_1 https://docs.python.org/ko/3/tutorial/index.html
+* source_2 https://wikidocs.net/book/	
 
 1. 자료구조 - 2022/06/28
 	1.1 List
