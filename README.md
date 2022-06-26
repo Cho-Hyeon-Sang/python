@@ -1,20 +1,19 @@
-# For Beginner
-1. git/github
-2. python
-	source : https://docs.python.org/ko/3/tutorial/index.html
-			 https://wikidocs.net/book/	
+# Python For Beginner 🧗‍♀️
 
-	1. 자료구조 - 20220628
-		1. List
-		2. Tuple
-		3. Dictionary
-		4. Set
-		5. Boolean
+source : https://docs.python.org/ko/3/tutorial/index.html
+	 https://wikidocs.net/book/	
 
-	2. 제어문, 반복문
+1. 자료구조 - 2022/06/28
+	1.1 List
+	1.2 Tuple
+	1.3 Dictionary
+	1.4 Set
+	1.5 Boolean
 
-	3. 함수
+2. 제어문, 반복문
 
-	4. 파일 입출력
+3. 함수
 
-	5. class
+4. 파일 입출력
+
+5. class
