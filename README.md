@@ -5,11 +5,11 @@
 			 https://wikidocs.net/book/	
 
 	1.	자료구조 - 20220628
-		1-1 : List
-		1-2 : Tuple
-		1-3 : Dictionary
-		1-4 : Set
-		1-5 : Boolean
+		1 : List
+		2 : Tuple
+		3 : Dictionary
+		4 : Set
+		5 : Boolean
 
 	2. 제어문, 반복문
 
