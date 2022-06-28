@@ -31,3 +31,4 @@ print(bool(1))		# 답 : # 설명
 print(bool(2))		# 답 : # 설명
 print(bool(""))		# 답 : # 설명
 
+# 유솜 화이팅 !!
