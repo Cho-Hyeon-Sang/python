@@ -10,9 +10,9 @@
 	1.4 Set  
 	1.5 Boolean  
 
-2. 제어문
-	2.1 조건문 if
-	2.2 반복문 while, for
+2. 제어문  
+	2.1 조건문 if. 
+	2.2 반복문 while, for. 
 
 3. 함수
 
